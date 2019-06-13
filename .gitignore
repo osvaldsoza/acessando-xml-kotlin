@@ -1,0 +1,11 @@
+# From https://github.com/github/gitignore/blob/master/Gradle.gitignore
+.gradle
+/build/
+.idea
+gradle/
+gradle.properties
+build.gradle
+gladlew
+gradlew
+gradlew.bat
+settings.gradle
